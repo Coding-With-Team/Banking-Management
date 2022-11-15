@@ -1,0 +1,55 @@
+Banking Project-
+
+
+1.Admin Login
+   ->Edit Customer
+   ->view customer Data
+   ->View User LoginData
+   ->View Customer LoginData
+   ->Allocated Account Number to customer
+
+2.User Login
+	->Add Customer
+	->view customer Data
+	
+3.Customer Login
+	->Check Account Details Based On Account Number
+	->Deposit Money Based on Account number
+	->Withdraw Money Based on Account number
+	->Check Balance Based On Account Number
+	
+	
+	
+	
+	
+note 1:Enter Admin And User And Customer Login Id Password
+
+note 2:Show for Login As Admin Or User Or Customer
+
+note 3:When Login As Admin then it will show the admin Session
+
+note 4:When Login As User then it will show the user Session
+
+note 5:When Login As Customer then it will show the customer Session
+
+note 6:Admin Allocted Customer Account Details Based On Bank Details
+
+Customer Details-
+		1)Id
+		2)Name
+		3)Email
+		4)Mobile Number
+		5)Adress
+		6)Addhar number
+		7)Gender
+		8)Pan Card number
+Bank Details-
+		1)HDFC Bank
+		2)PAYTM PAYEMENT Bank
+		3)IDFC Bank
+		4)SBI Bank
+		5)Bank Of Baroda
+Account Details-
+		1)Account Number
+		2)IFSC code
+		
